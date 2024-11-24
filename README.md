@@ -1,12 +1,13 @@
 # Food-Delivery-Chatbot
 
-main.py, generic_helper.py, db_helper.py: Contains Python FastAPI backend code
-db.sql: Contains the database. This is imported into MySQL db by using MySQL workbench tool
-index.html, style.css: website code
+About files-
+1.main.py, generic_helper.py, db_helper.py: Contains Python FastAPI backend code
+2.db.sql: Contains the database. This is imported into MySQL db by using MySQL workbench tool
+3.index.html, style.css: website code
 
 Installing these modules are necessary-
-pip install mysql-connector
-pip install "fastapi[all]"
+1.pip install mysql-connector
+2.pip install "fastapi[all]"
 
 To start fastapi backend server-
 1. Go to backend directory in command prompt
